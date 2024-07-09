@@ -1,7 +1,3 @@
-# 🍎 Portfolio 2024 🥟
-
-This repository contains the code for my personal portfolio website. The website is built using React and is hosted on Vercel. It supports translations for English and French.
-
 You can view it at [https://jiaxuan-li.com](https://jiaxuan-li.com).
 
 ## Details
@@ -27,7 +23,3 @@ cd portfolio-2024
 yarn
 yarn dev
 ```
-
-## License
-
-Copyright © 2024 Jia Xuan Li. All rights reserved.
